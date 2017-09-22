@@ -4,7 +4,7 @@
   <project name="PurifyOS/MagiskManager"    path="magisk/MagiskManager" remote="github" revision="master" />
   <project name="PurifyOS/MagiskPolicy"    path="magisk/jni/magiskpolicy" remote="github" revision="master" />
   <project name="PurifyOS/MagiskSU"    path="magisk/jni/su" remote="github" revision="master" />
-  <project name="PurifyOS/Busybox"    path="magisk/jni/external/busybox" remote="github" revision="master" />
+  <project name="PurifyOS/Ndk-Busybox"    path="magisk/jni/external/busybox" remote="github" revision="master" />
   <project name="PurifyOS/Dtc"    path="magisk/jni/external/dtc" remote="github" revision="master" />
   <project name="PurifyOS/Ndk-compression"    path="magisk/jni/external/ndk-compression"" remote="github" revision="master" />
   <project name="PurifyOS/Selinux"    path="magisk/jni/external/selinux" remote="github" revision="master" />
