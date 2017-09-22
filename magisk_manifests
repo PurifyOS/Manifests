@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<project name="PurifyOS/Magisk"    path="magisk" remote="github" revision="master" />
+  <project name="PurifyOS/MagiskManager"    path="magisk/MagiskManager" remote="github" revision="master" />
+  <project name="PurifyOS/MagiskPolicy"    path="magisk/magiskpolicy" remote="github" revision="master" />
+  <project name="PurifyOS/MagiskSU"    path="magisk/su" remote="github" revision="master" />
+  <project name="PurifyOS/Busybox"    path="magisk/external/busybox" remote="github" revision="master" />
+  <project name="PurifyOS/Dtc"    path="magisk/external/dtc" remote="github" revision="master" />
+  <project name="PurifyOS/Ndk-compression"    path="magisk/external/ndk-compression"" remote="github" revision="master" />
+  <project name="PurifyOS/Selinux"    path="magisk/external/selinux" remote="github" revision="master" />
+</manifest>
+
+<!-- If there are duplicates, just comment them. The build will not be affected-->
